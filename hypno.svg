@@ -1,0 +1,1001 @@
+<svg viewBox="-46 -46 92 92" xmlns="http://www.w3.org/2000/svg"><circle cx="2.000000" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="360" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="2.828427" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="720" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="3.464102" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="1080" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="4.000000" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="1440" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="4.472136" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="1800" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="4.898979" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="2160" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="5.291503" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="2520" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="5.656854" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="2880" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="6.000000" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="3240" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="6.324555" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="3600" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="6.633250" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="3960" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="6.928203" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="4320" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="7.211103" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="4680" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="7.483315" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="5040" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="7.745967" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="5400" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="8.000000" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="5760" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="8.246211" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="6120" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="8.485281" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="6480" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="8.717798" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="6840" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="8.944272" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="7200" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="9.165151" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="7560" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="9.380832" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="7920" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="9.591663" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="8280" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="9.797959" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="8640" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="10.000000" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="9000" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="10.198039" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="9360" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="10.392305" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="9720" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="10.583005" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="10080" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="10.770330" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="10440" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="10.954451" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="10800" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="11.135529" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="11160" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="11.313708" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="11520" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="11.489125" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="11880" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="11.661904" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="12240" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="11.832160" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="12600" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="12.000000" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="12960" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="12.165525" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="13320" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="12.328828" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="13680" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="12.489996" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="14040" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="12.649111" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="14400" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="12.806248" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="14760" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="12.961481" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="15120" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="13.114877" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="15480" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="13.266499" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="15840" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="13.416408" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="16200" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="13.564660" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="16560" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="13.711309" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="16920" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="13.856406" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="17280" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="14.000000" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="17640" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="14.142136" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="18000" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="14.282857" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="18360" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="14.422205" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="18720" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="14.560220" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="19080" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="14.696938" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="19440" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="14.832397" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="19800" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="14.966630" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="20160" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="15.099669" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="20520" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="15.231546" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="20880" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="15.362291" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="21240" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="15.491933" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="21600" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="15.620499" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="21960" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="15.748016" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="22320" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="15.874508" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="22680" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="16.000000" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="23040" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="16.124515" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="23400" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="16.248077" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="23760" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="16.370706" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="24120" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="16.492423" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="24480" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="16.613248" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="24840" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="16.733201" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="25200" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="16.852300" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="25560" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="16.970563" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="25920" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="17.088007" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="26280" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="17.204651" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="26640" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="17.320508" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="27000" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="17.435596" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="27360" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="17.549929" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="27720" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="17.663522" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="28080" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="17.776389" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="28440" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="17.888544" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="28800" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="18.000000" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="29160" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="18.110770" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="29520" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="18.220867" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="29880" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="18.330303" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="30240" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="18.439089" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="30600" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="18.547237" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="30960" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="18.654758" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="31320" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="18.761663" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="31680" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="18.867962" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="32040" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="18.973666" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="32400" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="19.078784" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="32760" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="19.183326" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="33120" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="19.287302" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="33480" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="19.390719" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="33840" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="19.493589" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="34200" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="19.595918" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="34560" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="19.697716" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="34920" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="19.798990" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="35280" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="19.899749" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="35640" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="20.000000" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="36000" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="20.099751" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="36360" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="20.199010" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="36720" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="20.297783" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="37080" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="20.396078" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="37440" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="20.493902" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="37800" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="20.591260" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="38160" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="20.688161" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="38520" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="20.784610" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="38880" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="20.880613" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="39240" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="20.976177" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="39600" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="21.071308" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="39960" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="21.166010" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="40320" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="21.260292" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="40680" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="21.354157" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="41040" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="21.447611" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="41400" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="21.540659" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="41760" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="21.633308" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="42120" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="21.725561" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="42480" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="21.817424" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="42840" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="21.908902" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="43200" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="22.000000" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="43560" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="22.090722" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="43920" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="22.181073" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="44280" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="22.271057" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="44640" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="22.360680" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="45000" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="22.449944" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="45360" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="22.538855" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="45720" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="22.627417" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="46080" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="22.715633" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="46440" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="22.803509" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="46800" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="22.891046" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="47160" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="22.978251" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="47520" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="23.065125" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="47880" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="23.151674" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="48240" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="23.237900" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="48600" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="23.323808" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="48960" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="23.409400" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="49320" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="23.494680" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="49680" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="23.579652" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="50040" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="23.664319" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="50400" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="23.748684" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="50760" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="23.832751" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="51120" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="23.916521" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="51480" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="24.000000" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="51840" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="24.083189" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="52200" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="24.166092" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="52560" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="24.248711" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="52920" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="24.331050" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="53280" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="24.413111" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="53640" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="24.494897" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="54000" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="24.576411" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="54360" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="24.657656" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="54720" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="24.738634" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="55080" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="24.819347" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="55440" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="24.899799" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="55800" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="24.979992" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="56160" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="25.059928" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="56520" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="25.139610" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="56880" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="25.219040" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="57240" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="25.298221" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="57600" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="25.377155" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="57960" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="25.455844" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="58320" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="25.534291" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="58680" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="25.612497" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="59040" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="25.690465" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="59400" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="25.768197" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="59760" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="25.845696" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="60120" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="25.922963" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="60480" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="26.000000" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="60840" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="26.076810" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="61200" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="26.153394" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="61560" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="26.229754" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="61920" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="26.305893" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="62280" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="26.381812" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="62640" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="26.457513" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="63000" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="26.532998" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="63360" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="26.608269" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="63720" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="26.683328" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="64080" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="26.758176" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="64440" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="26.832816" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="64800" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="26.907248" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="65160" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="26.981475" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="65520" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="27.055499" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="65880" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="27.129320" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="66240" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="27.202941" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="66600" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="27.276363" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="66960" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="27.349589" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="67320" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="27.422618" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="67680" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="27.495454" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="68040" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="27.568098" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="68400" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="27.640550" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="68760" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="27.712813" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="69120" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="27.784888" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="69480" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="27.856777" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="69840" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="27.928480" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="70200" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="28.000000" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="70560" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="28.071338" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="70920" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="28.142495" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="71280" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="28.213472" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="71640" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="28.284271" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="72000" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="28.354894" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="72360" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="28.425341" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="72720" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="28.495614" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="73080" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="28.565714" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="73440" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="28.635642" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="73800" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="28.705400" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="74160" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="28.774989" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="74520" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="28.844410" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="74880" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="28.913665" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="75240" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="28.982753" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="75600" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="29.051678" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="75960" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="29.120440" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="76320" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="29.189039" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="76680" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="29.257478" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="77040" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="29.325757" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="77400" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="29.393877" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="77760" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="29.461840" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="78120" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="29.529646" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="78480" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="29.597297" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="78840" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="29.664794" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="79200" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="29.732137" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="79560" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="29.799329" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="79920" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="29.866369" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="80280" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="29.933259" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="80640" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="30.000000" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="81000" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="30.066593" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="81360" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="30.133038" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="81720" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="30.199338" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="82080" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="30.265492" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="82440" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="30.331502" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="82800" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="30.397368" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="83160" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="30.463092" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="83520" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="30.528675" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="83880" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="30.594117" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="84240" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="30.659419" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="84600" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="30.724583" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="84960" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="30.789609" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="85320" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="30.854497" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="85680" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="30.919250" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="86040" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="30.983867" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="86400" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="31.048349" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="86760" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="31.112698" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="87120" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="31.176915" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="87480" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="31.240999" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="87840" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="31.304952" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="88200" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="31.368774" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="88560" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="31.432467" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="88920" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="31.496031" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="89280" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="31.559468" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="89640" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="31.622777" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="90000" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="31.685959" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="90360" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="31.749016" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="90720" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="31.811947" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="91080" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="31.874755" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="91440" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="31.937439" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="91800" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="32.000000" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="92160" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="32.062439" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="92520" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="32.124757" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="92880" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="32.186954" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="93240" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="32.249031" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="93600" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="32.310989" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="93960" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="32.372828" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="94320" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="32.434549" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="94680" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="32.496154" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="95040" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="32.557641" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="95400" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="32.619013" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="95760" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="32.680269" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="96120" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="32.741411" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="96480" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="32.802439" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="96840" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="32.863353" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="97200" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="32.924155" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="97560" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="32.984845" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="97920" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="33.045423" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="98280" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="33.105891" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="98640" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="33.166248" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="99000" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="33.226495" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="99360" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="33.286634" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="99720" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="33.346664" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="100080" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="33.406586" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="100440" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="33.466401" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="100800" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="33.526109" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="101160" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="33.585711" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="101520" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="33.645208" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="101880" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="33.704599" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="102240" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="33.763886" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="102600" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="33.823069" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="102960" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="33.882149" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="103320" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="33.941125" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="103680" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="34.000000" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="104040" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="34.058773" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="104400" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="34.117444" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="104760" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="34.176015" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="105120" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="34.234486" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="105480" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="34.292856" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="105840" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="34.351128" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="106200" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="34.409301" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="106560" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="34.467376" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="106920" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="34.525353" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="107280" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="34.583233" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="107640" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="34.641016" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="108000" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="34.698703" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="108360" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="34.756294" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="108720" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="34.813790" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="109080" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="34.871192" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="109440" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="34.928498" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="109800" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="34.985711" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="110160" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="35.042831" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="110520" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="35.099858" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="110880" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="35.156792" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="111240" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="35.213634" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="111600" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="35.270384" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="111960" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="35.327043" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="112320" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="35.383612" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="112680" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="35.440090" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="113040" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="35.496479" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="113400" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="35.552778" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="113760" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="35.608988" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="114120" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="35.665109" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="114480" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="35.721142" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="114840" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="35.777088" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="115200" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="35.832946" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="115560" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="35.888717" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="115920" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="35.944402" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="116280" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="36.000000" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="116640" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="36.055513" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="117000" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="36.110940" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="117360" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="36.166283" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="117720" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="36.221541" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="118080" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="36.276714" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="118440" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="36.331804" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="118800" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="36.386811" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="119160" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="36.441734" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="119520" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="36.496575" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="119880" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="36.551334" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="120240" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="36.606010" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="120600" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="36.660606" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="120960" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="36.715120" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="121320" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="36.769553" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="121680" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="36.823905" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="122040" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="36.878178" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="122400" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="36.932371" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="122760" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="36.986484" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="123120" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="37.040518" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="123480" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="37.094474" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="123840" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="37.148351" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="124200" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="37.202150" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="124560" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="37.255872" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="124920" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="37.309516" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="125280" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="37.363083" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="125640" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="37.416574" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="126000" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="37.469988" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="126360" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="37.523326" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="126720" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="37.576588" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="127080" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="37.629775" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="127440" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="37.682887" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="127800" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="37.735925" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="128160" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="37.788887" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="128520" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="37.841776" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="128880" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="37.894591" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="129240" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="37.947332" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="129600" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="38.000000" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="129960" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="38.052595" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="130320" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="38.105118" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="130680" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="38.157568" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="131040" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="38.209946" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="131400" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="38.262253" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="131760" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="38.314488" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="132120" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="38.366652" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="132480" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="38.418745" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="132840" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="38.470768" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="133200" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="38.522721" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="133560" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="38.574603" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="133920" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="38.626416" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="134280" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="38.678159" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="134640" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="38.729833" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="135000" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="38.781439" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="135360" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="38.832976" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="135720" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="38.884444" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="136080" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="38.935845" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="136440" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="38.987177" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="136800" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="39.038443" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="137160" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="39.089641" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="137520" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="39.140772" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="137880" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="39.191836" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="138240" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="39.242834" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="138600" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="39.293765" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="138960" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="39.344631" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="139320" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="39.395431" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="139680" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="39.446166" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="140040" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="39.496835" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="140400" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="39.547440" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="140760" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="39.597980" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="141120" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="39.648455" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="141480" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="39.698866" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="141840" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="39.749214" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="142200" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="39.799497" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="142560" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="39.849718" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="142920" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="39.899875" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="143280" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="39.949969" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="143640" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="40.000000" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="144000" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="40.049969" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="144360" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="40.099875" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="144720" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="40.149720" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="145080" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="40.199502" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="145440" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="40.249224" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="145800" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="40.298883" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="146160" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="40.348482" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="146520" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="40.398020" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="146880" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="40.447497" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="147240" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="40.496913" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="147600" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="40.546270" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="147960" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="40.595566" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="148320" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="40.644803" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="148680" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="40.693980" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="149040" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="40.743098" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="149400" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="40.792156" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="149760" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="40.841156" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="150120" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="40.890097" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="150480" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="40.938979" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="150840" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="40.987803" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="151200" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="41.036569" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="151560" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="41.085277" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="151920" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="41.133928" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="152280" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="41.182521" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="152640" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="41.231056" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="153000" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="41.279535" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="153360" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="41.327957" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="153720" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="41.376322" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="154080" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="41.424630" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="154440" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="41.472883" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="154800" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="41.521079" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="155160" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="41.569219" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="155520" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="41.617304" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="155880" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="41.665333" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="156240" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="41.713307" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="156600" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="41.761226" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="156960" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="41.809090" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="157320" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="41.856899" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="157680" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="41.904654" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="158040" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="41.952354" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="158400" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="42.000000" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="158760" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="42.047592" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="159120" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="42.095130" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="159480" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="42.142615" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="159840" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="42.190046" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="160200" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="42.237424" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="160560" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="42.284749" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="160920" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="42.332021" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="161280" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="42.379240" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="161640" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="42.426407" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="162000" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="42.473521" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="162360" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="42.520583" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="162720" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="42.567593" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="163080" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="42.614552" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="163440" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="42.661458" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="163800" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="42.708313" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="164160" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="42.755117" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="164520" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="42.801869" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="164880" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="42.848571" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="165240" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="42.895221" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="165600" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="42.941821" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="165960" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="42.988371" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="166320" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="43.034870" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="166680" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="43.081318" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="167040" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="43.127717" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="167400" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="43.174066" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="167760" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="43.220366" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="168120" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="43.266615" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="168480" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="43.312816" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="168840" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="43.358967" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="169200" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="43.405069" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="169560" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="43.451122" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="169920" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="43.497126" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="170280" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="43.543082" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="170640" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="43.588989" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="171000" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="43.634848" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="171360" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="43.680659" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="171720" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="43.726422" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="172080" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="43.772137" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="172440" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="43.817805" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="172800" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="43.863424" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="173160" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="43.908997" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="173520" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="43.954522" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="173880" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="44.000000" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="174240" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="44.045431" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="174600" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="44.090815" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="174960" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="44.136153" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="175320" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="44.181444" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="175680" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="44.226689" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="176040" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="44.271887" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="176400" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="44.317040" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="176760" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="44.362146" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="177120" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="44.407207" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="177480" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="44.452222" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="177840" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="44.497191" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="178200" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="44.542115" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="178560" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="44.586994" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="178920" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="44.631827" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="179280" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="44.676616" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="179640" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle><circle cx="44.721360" cy="0" r="1" stroke-width="0.1" stroke="black" fill="red">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="180000" begin="0s" dur="1200s" repeatCount="indefinite"/>
+</circle></svg>
