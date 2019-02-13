@@ -24,8 +24,8 @@ let factors n =
   b + a, c + if a = 0 then 0 else 1
 
 let norm n =
-  if n = 0 then 255
-  else 255 / n
+  if n < 2 then 255
+  else 255 lsr (n - 1)
 
 let color n =
   let a, b = factors n in
