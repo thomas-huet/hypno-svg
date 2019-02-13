@@ -23,13 +23,12 @@ let factors n =
   let a, b, c = f n 2 in
   b + a, c + if a = 0 then 0 else 1
 
-let norm n =
-  if n < 2 then 255
-  else 255 lsr (n - 1)
-
 let color n =
-  let a, b = factors n in
-  Printf.sprintf "#%02x00%02x" (norm a) (255 - norm b)
+  match factors n with
+  | 0, 0 | 1, 1 -> "red"
+  | _, 1 -> "#7f1de0"
+  | 2, 2 -> "#321ee0"
+  | _ -> "#1f76e0"
 
 let add_point n =
   Printf.printf "<circle cx=\"%f\" cy=\"%f\" r=\"1\" stroke-width=\"0.1\" stroke=\"black\" fill=\"%s\">\n  <animateTransform attributeName=\"transform\" attributeType=\"XML\" type=\"rotate\" from=\"0\" to=\"%d\" begin=\"0s\" dur=\"3600s\" repeatCount=\"indefinite\"/>\n</circle>" (x n) (y n) (color n) (n * 360)
