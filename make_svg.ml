@@ -10,24 +10,20 @@ let header n =
 let factors n =
   let rec f n i =
     if n mod i = 0 then
-      let a, b, c = f (n / i) i in
-      1 + a, b, c
+      1 + f (n / i) i
     else if n = 1 then
-      0, 0, 0
+      0
     else if i * i > n then
-      0, 1, 1
+      1
     else
-      let a, b, c = f n (i + 1) in
-      0, b + a, c + if a = 0 then 0 else 1
+      f n (i + 1)
   in
-  let a, b, c = f n 2 in
-  b + a, c + if a = 0 then 0 else 1
+  f n 2
 
 let color n =
   match factors n with
-  | 0, 0 | 1, 1 -> "red"
-  | _, 1 -> "#7f1de0"
-  | 2, 2 -> "#321ee0"
+  | 0 | 1 -> "red"
+  | 2 -> "#321ee0"
   | _ -> "#1f76e0"
 
 let add_point n =
